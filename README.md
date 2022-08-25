@@ -49,7 +49,7 @@ Figura 1
 
 Circuitos RC
 
-![image](https://user-images.githubusercontent.com/104999420/186718702-66bd7efb-5c49-4fe6-8d46-50da2c3290b1.png)
+![image](https://user-images.githubusercontent.com/104999420/186724343-6b8ad573-4852-4931-9619-2d54c5de74e2.png)
 
 Nota; La siguiente imagen muestra un resumen sobre los circuitos RC.
 
@@ -77,11 +77,11 @@ SECCIÓN 15–1 El sistema de los números complejos
 
 2. Localice los siguientes números en el plano complejo:
 
-![image](https://user-images.githubusercontent.com/104999420/186719086-800f623e-df9e-4760-b067-5f73d28c98a1.png)
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/104999420/186724426-e258a51b-893f-4239-b607-60482ff585ae.png">
 
 4. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 180° de cada uno de los puntos del problema 3.
 
-![image](https://user-images.githubusercontent.com/104999420/186719144-aea67e33-f793-4ff4-9034-5fe9fb382205.png)
+<img width="373" alt="image" src="https://user-images.githubusercontent.com/104999420/186724497-e80f8f3e-1360-4735-ab74-2a608283825d.png">
 
 <img width="108" alt="image" src="https://user-images.githubusercontent.com/104999420/186719184-640e6b5e-f5ab-446a-979d-632810f5a901.png">
 
@@ -91,7 +91,7 @@ SECCIÓN 15–1 El sistema de los números complejos
 (b) 2 unidades a la izquierda del origen sobre el eje real, y 1.5 unidades hacia arriba sobre el eje j.
 (c) 10 unidades a la izquierda del origen sobre el eje real, y 14 unidades hacia abajo sobre el eje j.
 
-![image](https://user-images.githubusercontent.com/104999420/186719261-c6212436-b7cd-4991-8096-a571159ff4ff.png)
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/104999420/186724557-48ea9476-341a-4ba9-98e5-265025545a45.png">
 
 8. Convierta cada uno de los siguientes números rectangulares a forma polar:
 
